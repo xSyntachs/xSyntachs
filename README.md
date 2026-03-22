@@ -34,6 +34,6 @@ I like understanding how things work under the hood. Whether it's decompiling ga
 
 ## Connect
 
-[![Discord](https://img.shields.io/badge/Discord-xsyntachs2-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/xsyntachs2)
-[![Steam](https://img.shields.io/badge/Steam-xSyntachs-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198809622445/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-xSyntachs-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30235460/xsyntachs)
+<a href="https://discord.com/users/xsyntachs2"><img src="https://img.shields.io/badge/Discord-xsyntachs2-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://steamcommunity.com/profiles/76561198809622445/"><img src="https://img.shields.io/badge/Steam-xSyntachs-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/30235460/xsyntachs"><img src="https://img.shields.io/badge/Stack%20Overflow-xSyntachs-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
