@@ -17,36 +17,23 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 🔭 What I'm working on
+I like understanding how things work under the hood. Whether it's decompiling game DLLs to figure out the internal architecture or building a networking layer from scratch. If it's interesting, I'll build it.
 
-- **Oxygen Not Included Multiplayer Mod** · Adding LAN multiplayer to a singleplayer colony sim. Networking, game state synchronization, Harmony runtime patching. Contributing to the [ONI Together](https://github.com/Lyraedan/Oxygen_Not_Included_Multiplayer) project.
+## Current Project
 
-## ⚡ Tech Stack
+- 🎮 **[ONI Together](https://github.com/Lyraedan/Oxygen_Not_Included_Multiplayer)** · Adding LAN multiplayer to Oxygen Not Included. Networking, game state sync, Harmony runtime patching.
 
-| Area | Technologies |
-|------|-------------|
-| **Languages** | C#, TypeScript, JavaScript, Python |
-| **Backend** | .NET, Node.js, Flask |
-| **Frontend** | Angular, Bootstrap |
-| **Game Dev** | Unity, Blender, Harmony 2.0, ILSpy, Riptide Networking |
-| **Data / ML** | pandas, numpy, matplotlib, Hugging Face Transformers |
-| **Infra / DevOps** | Docker, Ubuntu/Linux, SSH, PostgreSQL, MongoDB, n8n, Directus |
-| **AI / Automation** | Claude Code, Whisper, MCP Servers, diverse APIs (Google, Steam, WhatsApp) |
-| **Sonstiges** | Discord Bot Dev, Steam API |
+## What I do
 
-## 📊 GitHub Stats
+- 🕹️ **Game Modding** · Unity, Blender (modeling + procedural materials), Harmony 2.0, ILSpy, Riptide Networking
+- 🌐 **Web Development** · Angular, Node.js, Flask, Bootstrap, TypeScript
+- 📊 **Data / ML** · pandas, numpy, matplotlib, Hugging Face Transformers
+- 🏗️ **Infrastructure** · Docker, Ubuntu/Linux, SSH, PostgreSQL, MongoDB, n8n, Directus
+- 🤖 **AI / Automation** · Claude Code, Whisper, MCP Servers, Discord Bots
+- 🔌 **API Integrations** · Google, Steam, WhatsApp (WAHA/Evolution API)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=xSyntachs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSyntachs&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-## 🔗 Connect
+## Connect
 
 [![Discord](https://img.shields.io/badge/Discord-xsyntachs2-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/xsyntachs2)
 [![Steam](https://img.shields.io/badge/Steam-xSyntachs-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198809622445/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-xSyntachs-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/30235460/xsyntachs)
-
-## 💬 About me
-
-I like understanding how things work under the hood. Whether it's decompiling game DLLs to figure out the internal architecture or building a networking layer from scratch. If it's interesting, I'll build it.
