@@ -1,4 +1,4 @@
-# Hi, I'm xSyntachs 👋
+# Hi, I'm xSyntachs aka. Louis 👋
 
 🛠️ Developer | 🎮 Game Modder | 💡 Learning by doing
 
